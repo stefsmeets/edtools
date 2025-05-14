@@ -21,7 +21,7 @@ if os.path.exists(readme_path):
 setup(
     long_description=readme,
     name='edtools',
-    version='1.0.1',
+    version='1.1.0',
     description='Collection of tools for automated processing and clustering of electron diffraction data.',
     python_requires='>=3.6.1',
     project_urls={
